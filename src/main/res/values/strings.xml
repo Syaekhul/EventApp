@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Submission1</string>
+    <string name="header">Dicoding Event</string>
+    <string name="sub_header">Rekomendasi event for you!</string>
+    <string name="search">Cari event?</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming Event</string>
+    <string name="title_finished">Finished Event</string>
+    <string name="go_to_upcoming">Upcoming</string>
+    <string name="summary">Summary</string>
+    <string name="event_name">Event</string>
+    <string name="event_desc">Event Description</string>
+    <string name="img_desc">Image Description</string>
+    <string name="detail_event">Detail Event</string>
+    <string name="category">Kategori</string>
+    <string name="owner">Owner</string>
+    <string name="openDate">Terbuka Hingga:</string>
+    <string name="endTime">Berakhir:</string>
+    <string name="quota">Kuota</string>
+    <string name="quotaRemain">Sisa Kuota:</string>
+    <string name="regis">Register</string>
+    <string name="title_activity_bottom_view">BottomView</string>
+</resources>
